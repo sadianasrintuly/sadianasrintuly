@@ -6,7 +6,7 @@
 <h6 align="center">Greetings and welcome to my GitHub profile! I'm currently in the final stretch of my Computer Science and Engineering degree at Bangladesh Army International University of Science and Technology. My passion lies in mobile app development, where I specialize in Flutter and Android development. Constantly driven by a thirst for knowledge, I'm always on the lookout to delve into new technologies. Let's work together to make a difference!</h6>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tul455&label=Profile%20views&color=0e75b6&style=flat" alt="tul455" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadianasrintuly&label=Profile%20views&color=0e75b6&style=flat" alt="sadianasrintuly" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
