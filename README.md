@@ -5,6 +5,7 @@
 <h4 align="center">Hey there, I'm Sadia Nasrin Tuly</h4>
 <h6 align="center">Greetings and welcome to my GitHub profile! I'm currently in the final stretch of my Computer Science and Engineering degree at Bangladesh Army International University of Science and Technology. My passion lies in mobile app development, where I specialize in Flutter and Android development. Constantly driven by a thirst for knowledge, I'm always on the lookout to delve into new technologies. Let's work together to make a difference!</h6>
 
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/woman-is-working-computer-she-is-wearing-pink-hijab_835197-5150.jpg?w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadianasrintuly&label=Profile%20views&color=0e75b6&style=flat" alt="sadianasrintuly" /> </p>
 
