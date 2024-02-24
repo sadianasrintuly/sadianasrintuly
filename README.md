@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sadianasrintuly/sadianasrintuly/blob/main/nqhGN7Gaxr.gif" width="400" height="400" alt="logo" />
+  <img src="https://github.com/sadianasrintuly/sadianasrintuly/blob/main/nqhGN7Gaxr.gif" width="300" height="300" alt="logo" />
 </p>
 <h1 align="center">Code Together, Thrive Forever</h1>
 <h4 align="center">Hey there, I'm Sadia Nasrin Tuly</h4>
