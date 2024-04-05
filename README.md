@@ -11,7 +11,7 @@
 
 - 💼 I’m currently working on ZenithhBD as an intern software.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**.
   
 - 📫 How to reach me **sadianasrin789@gmail.com**
 
