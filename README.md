@@ -9,8 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadianasrintuly&label=Profile%20views&color=0e75b6&style=flat" alt="sadianasrintuly" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 💼 I’m currently working on ZenithhBD as an intern software.
 
+- 🌱 I’m currently learning **Flutter**
+  
 - 📫 How to reach me **sadianasrin789@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
