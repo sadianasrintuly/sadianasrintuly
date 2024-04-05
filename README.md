@@ -1,6 +1,6 @@
 <h1 align="center" class="blue-text">Code Together, Thrive Forever</h1>
 <p align="center">
-  <img src="https://github.com/sadianasrintuly/sadianasrintuly/blob/main/nqhGN7Gaxr.gif" width="700" height="700" alt="logo" />
+  <img src="https://github.com/sadianasrintuly/sadianasrintuly/blob/main/nqhGN7Gaxr.gif" width="400" height="400" alt="logo" />
 </p>
 <h4 align="center">Hey there, I'm Sadia Nasrin Tuly</h4>
 <h6 align="center">Greetings and welcome to my GitHub profile! I'm currently in the final stretch of my Computer Science and Engineering degree at Bangladesh Army International University of Science and Technology. My passion lies in mobile app development, where I specialize in Flutter and Android development. Constantly driven by a thirst for knowledge, I'm always on the lookout to delve into new technologies. Let's work together to make a difference!</h6>
