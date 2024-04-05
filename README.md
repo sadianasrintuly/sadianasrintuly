@@ -1,4 +1,4 @@
-<h1 align="center" class="blue-text">Code Together, Thrive Forever</h1>
+# <span style="color:blue">Code Together, Thrive Forever</span>
 <p align="center">
   <img src="https://github.com/sadianasrintuly/sadianasrintuly/blob/main/nqhGN7Gaxr.gif" width="400" height="400" alt="logo" />
 </p>
